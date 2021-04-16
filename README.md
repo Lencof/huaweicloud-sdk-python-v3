@@ -34,6 +34,7 @@ using VPC SDK for example, you need to install `huaweicloudsdkcore` library and 
 ``` bash
 # Install the core library
 pip install huaweicloudsdkcore
+pip install requirements.txt
 
 # Install the VPC management library
 pip install huaweicloudsdkvpc
